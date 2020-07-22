@@ -6,7 +6,7 @@ This repository includes the following:
 
 1. Plaid API to analyze spending and budget analysis
 
-2. Monte Carlo Simulation for investmen portfolio return
+2. Monte Carlo Simulation for investment portfolio return
 
 3. Retirement analysis using 90% confidence intervals
 
